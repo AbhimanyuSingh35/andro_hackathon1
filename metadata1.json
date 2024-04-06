@@ -1,15 +1,15 @@
 {
-    "name": "Your NFT Name",
-    "description": "NFT Description",
+    "name": "Skills Market Place",
+    "description": "This is an app for people to list their skills and get paid securely",
     "image": "image url",
     "attributes": [
         {
-            "trait_type": "Trait Name",
-            "value": "Trait Value"
+            "trait_type": "Legal Advisor",
+            "value": "100$"
         },
         {
-            "trait_type": "Trait Name",
-            "value": "Trait Value"
+            "trait_type": "Developer",
+            "value": "45$"
         }
     ]
 }
