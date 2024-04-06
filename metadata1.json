@@ -1,7 +1,7 @@
 {
     "name": "Skills Market Place",
     "description": "This is an app for people to list their skills and get paid securely",
-    "image": "image url",
+    "image": "https://imgs.search.brave.com/HOpVsqGJJgX1ZIWCZWkUDEPzNrfgXMuz5gWOszDPuSs/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9idXNpbmVzc21h/bi11c2luZy1jb21w/dXRlci1uZXctc2tp/bGxzLWtub3dsZWRn/ZS13ZWJpbmFyLXRy/YWluaW5nLWJ1c2lu/ZXNzLWludGVybmV0/LXRlY2hub2xvZ3kt/Y29uY2VwdF80NzAw/Ni03ODQuanBnP3Np/emU9NjI2JmV4dD1q/cGc",
     "attributes": [
         {
             "trait_type": "Legal Advisor",
